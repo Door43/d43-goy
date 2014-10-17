@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[goy:home|Door43 (goy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-goy|d43-goy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-goy/archive/master.zip|d43-goy.zip]]
+
+**Recent Changes**
+{{changes>ns = goy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/goy|Ethnologue data]]
+
